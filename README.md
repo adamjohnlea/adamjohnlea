@@ -19,9 +19,9 @@
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-0F172A.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" style="margin:0"/>
 <hr>
 <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-555.svg?style=for-the-badge&logo=claude&logoColor=white" style="margin:0"/>
-<img alt="PHPStorm" src="https://img.shields.io/badge/-phpstorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white" style="margin:0"/>
-<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" style="margin:0"/>
-<img alt="Xcode" src="https://img.shields.io/badge/-xcode-147EFBsvg?style=for-the-badge&logo=xcode&logoColor=white" style="margin:0"/>
+<img alt="PHPStorm" src="https://img.shields.io/badge/-phpstorm-733B73.svg?style=for-the-badge&logo=phpstorm&logoColor=white" style="margin:0"/>
+<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-yellow.svg?style=for-the-badge&logo=PyCharm&logoColor=white" style="margin:0"/>
+<img alt="Xcode" src="https://img.shields.io/badge/-xcode-147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white" style="margin:0"/>
 </div>
 <!--
 **adamjohnlea/adamjohnlea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
