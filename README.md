@@ -8,7 +8,7 @@
   <img alt="macOS" src="https://shields.io/badge/MacOS--9cf.svg?style=social&logo=Apple" style="margin:0"/>
   <img alt="iOS" src="https://img.shields.io/badge/-IOS-black.svg?style=style=for-the-badge&logo=Apple&logoColor=white" style="margin:0"/>
 </p>
-  <p>You can find me mostly on <a href="https://x.com/AdamJohnLea">X</a>, but feel free to check out my <a href="https://www.linkedin.com/in/adam-john-lea/">LinkedIn Profile</a>.</p>
+  <p>You can find me mostly on <a href="https://x.com/AdamJohnLea" target="_blank">X</a>, but feel free to check out my <a href="https://www.linkedin.com/in/adam-john-lea/" target="_blank">LinkedIn Profile</a>.</p>
 <hr>
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white" style="margin:0"/>
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin:0"/>
