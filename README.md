@@ -21,6 +21,7 @@
 <img alt="PHPStorm" src="https://img.shields.io/badge/-phpstorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white" style="margin:0"/>
 <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-555.svg?style=for-the-badge&logo=claude&logoColor=white" style="margin:0"/>
 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" style="margin:0"/>
+<img alt="Xcode" src="https://img.shields.io/badge/-xcode-147EFBsvg?style=for-the-badge&logo=xcode&logoColor=white" style="margin:0"/>
 </div>
 <!--
 **adamjohnlea/adamjohnlea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
