@@ -12,7 +12,6 @@
 <hr>
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white" style="margin:0"/>
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin:0"/>
-<img alt="Swift" src="https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white" style="margin:0"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/js-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white" style="margin:0"/>
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B5.svg?style=for-the-badge&logo=SQLite&logoColor=white" style="margin:0"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin:0"/>  
@@ -22,7 +21,6 @@
 <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-555.svg?style=for-the-badge&logo=claude&logoColor=white" style="margin:0"/>
 <img alt="PHPStorm" src="https://img.shields.io/badge/-phpstorm-733B73.svg?style=for-the-badge&logo=phpstorm&logoColor=white" style="margin:0"/>
 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-yellow.svg?style=for-the-badge&logo=PyCharm&logoColor=white" style="margin:0"/>
-<img alt="Xcode" src="https://img.shields.io/badge/-xcode-147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white" style="margin:0"/>
 </div>
 <!--
 **adamjohnlea/adamjohnlea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
