@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://pbs.twimg.com/profile_banners/1990598976245280771/1770597391/1500x500"/>
 <p>
-  Hey there 👋, I'm Adam. 👴🏻 Old guy |  Apple fan | 🐘 PHP & 🐍 Python coder | SQLite maximalist | Twig addict | 🤖 AI as my pair programmer | Having fun building apps | ⚾️ RedSox Rooter | 🚫 No Drama
+  Hey there 👋, I'm Adam. 👴🏻 Old guy |  Apple fan | 🐘 PHP & 🐍 Python coder | SQLite maximalist | Twig addict | 🤖 AI as my pair programmer | Having fun building things | ⚾️ RedSox Rooter | 🚫 No Drama
 </p>
 <p>
   <img alt="Apple" src="https://img.shields.io/badge/Apple-000000.svg?style=style=for-the-badge&logo=apple&logoColor=white" style="margin:0"/>
