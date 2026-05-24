@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://pbs.twimg.com/profile_banners/1990598976245280771/1773189938/1500x500"/>
 <p>
-  Hey there 👋, I'm Adam. 👴🏻 Old guy |  Apple fan | 🐘 PHP | 💻 SQLite Maximalist | 🤖 AI pair programmer | ❤️ If it doesn't need a build step, I probably love it | ⚽️ ManCity, Portland Timers, AC Boise |
+  Hey there 👋, I'm Adam. 👴🏻 Old guy |  Apple fan | 🐘 PHP -  WordPress | 💻 SQLite -  MySQL | 🤖 AI pair programmer | ❤️ If it doesn't need a build step, I probably love it | ⚽️ ManCity, Portland Timers, AC Boise |
 </p>
   <p>You can find me mostly on <a href="https://x.com/AdamJohnLea" target="_blank">X</a>, but feel free to check out my <a href="https://www.linkedin.com/in/adam-john-lea/" target="_blank">LinkedIn Profile</a>.</p>
 <hr>
